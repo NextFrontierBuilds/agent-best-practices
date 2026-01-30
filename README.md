@@ -1,5 +1,24 @@
 # Agent Best Practices
 
+**🤖 Drop-in AGENTS.md That Actually Works** — 15 rules to make AI coding agents follow instructions and stop going rogue.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/NextFrontierBuilds/agent-best-practices?style=flat-square)](https://github.com/NextFrontierBuilds/agent-best-practices)
+
+---
+
+## Works With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge&logo=anthropic" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/GPT-OpenAI-412991?style=for-the-badge&logo=openai" alt="GPT" />
+  <img src="https://img.shields.io/badge/Cursor-IDE-000000?style=for-the-badge" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Copilot-GitHub-000000?style=for-the-badge&logo=github" alt="Copilot" />
+  <img src="https://img.shields.io/badge/Windsurf-IDE-0066FF?style=for-the-badge" alt="Windsurf" />
+</p>
+
+---
+
 > Drop-in rules file to make AI agents follow tasks more clearly and avoid common mistakes.
 
 ## What This Is
